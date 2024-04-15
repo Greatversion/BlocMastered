@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180470178962",
+    "project_id": "blocmastered",
+    "storage_bucket": "blocmastered.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180470178962:android:87566e7eae2542f975324b",
+        "android_client_info": {
+          "package_name": "com.example.bloc_mastered"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NgSOCfmM5NF-xaYqFxE0LWcdMoi3xDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
